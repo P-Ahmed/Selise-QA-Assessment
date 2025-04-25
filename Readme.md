@@ -29,3 +29,4 @@ gradle clean test
 ```
 5. Selenium will open the browser and start the automation.
 6. To view the report of the automation execution, expand the **build -> reports -> tests** folder and open "index.html" in a browser
+![image](https://github.com/user-attachments/assets/c44a0057-79d7-415d-9318-9f7a1a4731a2)
