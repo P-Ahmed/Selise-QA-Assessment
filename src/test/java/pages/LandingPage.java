@@ -28,5 +28,4 @@ public class LandingPage extends BasePage {
         typingInSearchBox(searchField, searchTerm);
         waitAndClick(searchButton);
     }
-
 }
